@@ -5,6 +5,6 @@ Nesse repositório estão os mais diversos sites,bibliotecas,plugins para desenv
 
 <div>
   <ul>
-    <li> <a href="https://www.frontendmentor.io/home" targe='_blank'>FrontEndMentor</a></li>
+    <li> <a href="https://www.frontendmentor.io/home" target='_blank'>FrontEndMentor</a></li>
   </ul>
 </div>
