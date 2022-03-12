@@ -24,6 +24,8 @@ Nesse repositório estão os mais diversos sites,bibliotecas,plugins para desenv
 - [HTMl](https://html.com/)
 - [CSS](https://css-tricks.com/)
 - [Git](https://learngitbranching.js.org/?locale=pt_BR)
+- [Git/GitHub](https://www.twilio.com/quest/learn/open-source)
+- [Git](https://ohmygit.org/)
 - [React](https://react-tutorial.app/)
 - [Web3](https://www.useweb3.xyz/)
 
@@ -32,3 +34,10 @@ Nesse repositório estão os mais diversos sites,bibliotecas,plugins para desenv
 - [Teste para vagas](https://github.com/felipefialho/frontend-challenges)
 - [30 secondsof](https://www.30secondsofcode.org/)
 - [JS tips](https://www.jstips.co/)
+- [Ux tools](https://uxtools.co/)
+- [Small Dev Tools](https://smalldev.tools/)
+- [Sizzy](https://sizzy.co/)
+- [browserstarck](https://www.browserstack.com/)
+- [Crossbrowsertesting](https://crossbrowsertesting.com/)
+- [Imagecompressor](https://imagecompressor.com/pt/)
+
