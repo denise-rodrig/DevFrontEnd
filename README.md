@@ -1,5 +1,5 @@
 # DevFrontEnd
-Nesse repositório estão os mais diversos sites,bibliotecas,plugins para desenvolvimento Front-End.
+Nesse repositório estão os mais diversos sites,bibliotecas,plugins para desenvolvimento Front-End.Para contribuir você deve seguir o padrão do markdown,além de ser sites confiáveis.
 
 ## Para praticar
 - [FrontEnd Mentor](https://www.frontendmentor.io/home)
